@@ -43,11 +43,3 @@ public class Main {
       }
   }
 }
-
-
-/* Assignment one: matching bdays, return one if at least one, return zero otherwise
-*/
-
-/*
-run it a bunch of times and see how many times it matched, use a counter
-*/
